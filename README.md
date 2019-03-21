@@ -1,4 +1,4 @@
-![logo ull](logo.png =100x)
+<img src="logo.png" style="margin:0 auto;" alt="drawing" width="200"/>
 
 Repositorios creados mediante el transcurso de la carrera en Ingería Informática
 
