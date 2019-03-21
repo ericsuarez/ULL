@@ -1,5 +1,5 @@
-![logo ull](logo.png)
-# ULL
+![logo ull](logo.png =100x)
+
 Repositorios creados mediante el transcurso de la carrera en Ingería Informática
 
 ## Asignaturas
