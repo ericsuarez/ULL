@@ -1,4 +1,4 @@
-<img src="logo.png" style="margin:0 auto;" alt="drawing" width="200"/>
+<img src="logo.png" alt="drawing" width="100"/>
 
 Repositorios creados mediante el transcurso de la carrera en Ingería Informática
 
